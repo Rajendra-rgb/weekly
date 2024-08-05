@@ -4,10 +4,6 @@ namespace SydneyCoffee
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            // Declaring N and allocating a value
-            int n = 2;
 
             // declaring arrays to store data
             String[] name = new string[n];
