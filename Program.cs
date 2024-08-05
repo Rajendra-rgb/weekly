@@ -13,7 +13,7 @@ namespace SydneyCoffee
             String[] name = new string[n];
             int[] quantity = new int[n];
             String[] reseller = new string[n];
-            double[] charge = new double[n];
+            double[] charge = new doubl
             double price;
             double min = 9999999;
             String minName = "";
