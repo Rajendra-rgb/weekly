@@ -5,17 +5,6 @@ namespace SydneyCoffee
     class Program
     {
 
-            // declaring arrays to store data
-            String[] name = new string[n];
-            int[] quantity = new int[n];
-            String[] reseller = new string[n];
-            double[] charge = new doubl
-            double price;
-            double min = 9999999;
-            String minName = "";
-            double max = -1;
-            String maxName = "";
-
             // Welcome message
             Console.WriteLine("\t\t\t\tWelcome to use Sydney Coffee Program\n");
 
